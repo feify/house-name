@@ -1,0 +1,189 @@
+﻿<!DOCTYPE HTML>
+<head>
+<title>Services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+</head>
+<body>
+	      <div class="header">
+	      	<div class="header_top">
+			        <div class="wrap">	 
+					<div class="logo">
+					   <a href="index.html"><img src="images/logo.png" alt="" /></a>
+					</div>
+						 <div class="menu">
+						    <ul>
+								<li ><a href="index.html">首页</a></li>
+								<li><a href="about.html">关于我们</a></li>
+								<li  class="active"><a href="services.html">服务</a></li>
+								<li><a href="marketing.html">销售</a></li>
+								<li><a href="contact.html">联系我们</a></li>
+								<div class="clear"></div>
+					        </ul>
+						</div>
+						<div class="clear"></div>
+				   </div>
+			</div>			     
+		</div>
+	  <div class="main">  
+	   <div class="wrap">  		 	       
+         <div class="services_grid">
+		      <div class="content_bottom">
+		      	<div class="section group service_desc">
+				<div class="listview_1_of_2 images_1_of_2">
+					<div class="listimg listimg_2_of_1">
+						  <img src="images/service-1.png" alt="" />
+					</div>
+				    <div class="text list_2_of_1">
+						<h4>Service - 01</h4>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  ut labore et dolore.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+						<div class="view-all"><a href="#">更多</a></div>
+				   </div>
+			   </div>			
+				<div class="listview_1_of_2 images_1_of_2">
+					<div class="listimg listimg_2_of_1">
+						  <img src="images/service-2.png" alt="" />
+					</div>
+					<div class="text list_2_of_1">
+						  <h4>Service - 02</h4>
+						  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  ut labore et dolore.Lorem ipsum dolor sit amet  sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						 <div class="view-all"><a href="#">更多</a></div>
+					</div>
+				</div>
+			</div>
+			<div class="section group service_desc">
+				<div class="listview_1_of_2 images_1_of_2">
+					<div class="listimg listimg_2_of_1">
+						  <img src="images/service-3.png" alt="" />
+					</div>
+				    <div class="text list_2_of_1">
+						<h4>Service - 01</h4>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  ut labore et dolore.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+						<div class="view-all"><a href="#">更多</a></div>
+				   </div>
+			   </div>			
+				<div class="listview_1_of_2 images_1_of_2">
+					<div class="listimg listimg_2_of_1">
+						  <img src="images/service-4.png" alt="" />
+					</div>
+					<div class="text list_2_of_1">
+						  <h4>Service - 02</h4>
+						  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  ut labore et dolore.Lorem ipsum dolor sit amet  sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						 <div class="view-all"><a href="#">更多</a></div>
+					</div>
+				</div>
+			</div>
+			<div class="section group service_desc">
+				<div class="listview_1_of_2 images_1_of_2">
+					<div class="listimg listimg_2_of_1">
+						  <img src="images/service-5.png" alt="" />
+					</div>
+				    <div class="text list_2_of_1">
+						<h4>Service - 01</h4>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  ut labore et dolore.Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
+						<div class="view-all"><a href="#">更多</a></div>
+				   </div>
+			   </div>			
+				<div class="listview_1_of_2 images_1_of_2">
+					<div class="listimg listimg_2_of_1">
+						  <img src="images/service-6.png" alt="" />
+					</div>
+					<div class="text list_2_of_1">
+						  <h4>Service - 02</h4>
+						  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt  ut labore et dolore.Lorem ipsum dolor sit amet  sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						 <div class="view-all"><a href="#">更多</a></div>
+					</div>
+				</div>
+			</div>
+		   </div>
+    	</div>
+    <div class="sidebar">
+		<div class="sidebar_right_top">
+			<h3>中房资讯</h3>
+			<div class="latestnews">
+				<div class="latestnews_desc">
+					<h4>2016.1.20</h4>
+					<p>大兴新机场安置房2018年入住 涉13个拆迁村村民____昨日，大兴区相关部门介绍该区“十三五”规划时介绍，新机场安置房有望于2018年下半年迎来百姓回迁，小区建设时会保留被拆迁村的历史文化印记。</p>
+					<span><a href="#">......</a></span>
+				</div>
+				<div class="latestnews_desc">
+					<h4>2016.1.10</h4>
+					<p>开发商一边提价一边收紧折扣 火热楼市或将降温。2016年，房地产政策连续出台，央行降息、降低首付比例、契税降低、营业税改制、央行降准、房贷利息将可抵个税</p>
+					<span><a href="#">......</a></span>
+				</div>
+				<div class="view-all"><a href="#">更多资讯</a></div>
+			</div>
+		</div>
+        <div class="sidebar_right_bottom">
+			<h3>会员登录</h3>
+			<div class="login_form">
+				<form>
+					<div>
+						<span><label>用户名</label></span>
+						<span><input name="userName" type="text" class="textbox"></span>
+					</div>
+					<div>
+						<span><label>密码</label></span>
+						<span><input name="userName" type="password"></span>
+					</div>
+					<div>
+						<span><input type="submit" class="mybutton" value="登录"></span>
+					</div>
+					<span><a href="#">忘记密码?</a></span>
+				</form>
+				<h4>免费注册<a href="#">点我</a></h4>
+			</div>
+		</div>
+	</div>
+    <div class="clear"></div>
+ </div>
+</div>
+		  <div class="footer">
+			  <div class="wrap">
+				  <div class="section group">
+					  <div class="col_1_of_4 span_1_of_4">
+						  <div class="location">
+							  <h3>公司地址</h3>
+							  <ul>
+								  <li><img src="images/footer_logo.png" alt="" /></li>
+								  <li>1-22-003-55,</li>
+								  <li>Neque porro quisquam,</li>
+								  <li>dolor sit amet,</li>
+								  <li>USA.</li>
+							  </ul>
+						  </div>
+					  </div>
+					  <div class="col_1_of_4 span_1_of_4">
+						  <h3>投资商关系</h3>
+						  <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud nisi ut aliquip ex ea commodo consequat.<br><span><a href="#">更多....</a></span></p>
+					  </div>
+					  <div class="col_1_of_4 span_1_of_4">
+						  <h3>我们的承诺</h3>
+						  <div class="Testimonials_desc">
+							  <p><span class="up"><img src="images/quotes.png" alt=""></span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<span class="down"><img src="images/quotes-down.png" alt=""></span></p>
+							  <h5>- lorem</h5>
+						  </div>
+					  </div>
+					  <div class="col_1_of_4 span_1_of_4">
+						  <h3>联系我们</h3>
+						  <ul class="address">
+							  <li>info：yourcompany.com</li>
+							  <li><span>Mobile :</span> +12 345 67890</li>
+							  <li><span>Telephone :</span> +00 000 00000</li>
+							  <li><span>Fax :</span> +00 000 00000</li>
+						  </ul>
+					  </div>
+				  </div>
+			  </div>
+			  <div class="copy-right">
+				  <div class="wrap">
+					  <p>&copy; Copyright &copy; 2013.Company name All rights reserved.</p>
+					  <div class="clear"></div>
+				  </div>
+			  </div>
+		  </div>
+		  <div style="display:none"><script src='http//v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
+</body>
+</html>
+
